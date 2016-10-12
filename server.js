@@ -9,8 +9,8 @@ var csvWriter = require('csv-write-stream')
 var writer = csvWriter({ headers: ["Company Name", "Home Page", "Video Service"]});
 
 // input file source
-//var companies_file = './tmp/organizations.json';
-var companies_file = './tmp/test_org.json';
+//var companies_file = './tmp/test_org.json';
+var companies_file = './tmp/organizations.json';
 //var inputFile = './tmp/searched_container.txt';  // export file source
 var inputFile = './tmp/searched_container.csv';
 
