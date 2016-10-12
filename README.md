@@ -10,3 +10,7 @@
 ### Need add new file
 - JSON file from tmp is missing, structure should be 
   '{root:[{'name':'Name of company', 'homepage_url': 'http://example.com'}, {'name': 'Another company', 'homepage_url': 'http://example2.com'} ...]}'
+
+## To be able use run cmd files below
+- `npm install`
+- `npm run server`
